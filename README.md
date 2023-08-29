@@ -2,10 +2,10 @@
 
 | Hafta         | Konu          |
 |:------------- |:------------- |
-| 1. Hafta      |• Veri tipleri<br>•Degişkenler ve isimlendirme<br>• Print fonksiyonu ve parametreleri<br>•String ve Metotları<br>• Input ve tip dönüşümleri<br>• Koşullu ifadeler<br>• Döngüler|                                      
-| 2. Hafta      |• Liste<br>• Demetler<br>•Kume<br>•Sozlukler|
-| 3. Hafta      |• Fonksiyonlar<br>• Lambda Fonksiyonu <br>•Map-Filter-Reduce|
-| 4. Hafta      |• Hata Yakalama<br>•Modul ve Paketler<br>•File I/O<br>•Json|
+| 1. Hafta      |• Veri tipleri<br>•Degişkenler ve isimlendirme<br>• Print fonksiyonu ve parametreleri<br>• String ve Metotları<br>• Input ve tip dönüşümleri<br>• Koşullu ifadeler<br>• Döngüler|                                      
+| 2. Hafta      |• Liste<br>• Demetler<br>• Kume<br>• Sozlukler|
+| 3. Hafta      |• Fonksiyonlar<br>• Lambda Fonksiyonu <br>• Map-Filter-Reduce|
+| 4. Hafta      |• Hata Yakalama<br>• Modul ve Paketler<br>• File I/O<br>• Json|
 | 5. Hafta      |• Nesne Tabanli Programlama(OOP1) |
 | 6. Hafta      |• Nesne Tabanli Programlama(OOP2)|
 | 7. Hafta      |• PYQT|
