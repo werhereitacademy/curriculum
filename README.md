@@ -1,6 +1,6 @@
 # Curriculum
 
-| Week         | Course Subjects          |
+| Week         | Subject Matters          |
 |:------------- |:------------- |
 | 1. Week      |•Data types<br>• Variables and naming<br>• Print function and parameters<br>• Strings and methods<br>• Input and type conversions<br>• Conditional statements<br>• Loops| 
 | 2. Week      |• Lists<br>• Tuples<br>• Sets<br>• Dictionaries|
