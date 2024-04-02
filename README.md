@@ -1,22 +1,22 @@
-# Eğitimi Müfredatı
+# Curriculum
 
-| Hafta         | Konu          |
+| Week         | Topic          |
 |:------------- |:------------- |
-| 1. Hafta      |• Veri tipleri<br>• Degişkenler ve isimlendirme<br>• Print fonksiyonu ve parametreleri<br>• String ve Metotları<br>• Input ve tip dönüşümleri<br>• Koşullu ifadeler<br>• Döngüler|                                      
-| 2. Hafta      |• Liste<br>• Demetler<br>• Kume<br>• Sozlukler|
-| 3. Hafta      |• Fonksiyonlar<br>• Lambda Fonksiyonu <br>• Map-Filter-Reduce|
-| 4. Hafta      |• Hata Yakalama<br>• Modul ve Paketler<br>• File I/O<br>• Json|
-| 5. Hafta      |• Nesne Tabanli Programlama(OOP1) |
-| 6. Hafta      |• Nesne Tabanli Programlama(OOP2)|
-| 7. Hafta      |• PYQT|
-| 8. Hafta      |• Proje Haftasi 1|
-| 9. Hafta      |• Proje Haftasi 2|
-| 10. Hafta     |• Veritabanlarina Giris<br>• SQL Veritabanlari|
-| 11. Hafta     |• PostgreSQL|
-| 12. Hafta     |• Proje Haftasi 1|
-| 13. Hafta     |• Network Giris|
-| 14. Hafta     |• Cloud-1|
-| 15. Hafta     |• Cloud-2|
-| 16. Hafta     |• Mezuniyet|
+| 1. Week      |•Data types<br>• Variables and naming<br>• Print function and parameters<br>• Strings and methods<br>• Input and type conversions<br>• Conditional statements<br>• Loops| 
+| 2. Week      |• Lists<br>• Tuples<br>• Sets<br>• Dictionaries|
+| 3. Week      |• Functions<br>• Lambda function <br>• Map-Filter-Reduce|
+| 4. Week      |• Error handling<br>• Modules and packages<br>• File I/O<br>• JSON|
+| 5. Week      |• Object-Oriented Programming (OOP1) |
+| 6. Week      |• Object-Oriented Programming (OOP2)|
+| 7. Week      |• PYQT6|
+| 8. Week      |• Module Project Week 1|
+| 9. Week      |• Module Project Week 2|
+| 10. Week     |• Introduction to Databases<br>• SQL Databases|
+| 11. Week     |• PostgreSQL|
+| 12. Week     |• Module Project Week 1|
+| 13. Week     |• Introduction to Networking|
+| 14. Week     |• Cloud(Azure)-1|
+| 15. Week     |• Cloud(Azure)-2|
+| 16. Week     |• Graduation|
 
 
