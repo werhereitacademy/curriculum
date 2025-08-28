@@ -6,7 +6,7 @@
 | 2. Week      |• Functions<br>• Lambda function <br>• Map-Filter-Reduce• Error handling<br>• Modules and packages<br>• File I/O<br>• JSON|
 | 3. Week      |• Object-Oriented Programming|
 | 4. Week      |• PYQT6|
-| 5. Week      |• Module Project Week 1 |
+| 5. Week      |• Module Project(CRM) |
 | 6. Week      |• Introduction to Databases<br>• SQL Databases|
 | 7. Week      |• PostgreSQL-1|
 | 8. Week      |• PostgreSQL-2<br>• Module Project|
